@@ -1,0 +1,81 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* BODY */
+body {
+  font-family: 'Segoe UI', Arial;
+  background: #f2f4f8;
+}
+
+/* MAIN CONTAINER */
+.resume {
+  width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* PROFILE IMAGE */
+.profile {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top;
+}
+
+/* NAME */
+.info h1 {
+  font-size: 22px;
+}
+
+/* SECTIONS */
+.section {
+  margin-top: 15px;
+}
+
+.section h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 8px;
+}
+
+/* TEXT */
+p, li {
+  font-size: 13px;
+  color: #444;
+}
+
+/* LIST */
+ul {
+  margin-left: 18px;
+}
+
+/* TABLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 8px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px;
+  font-size: 13px;
+}
+
+th {
+  background: #333;
+  color: #fff;
+}
