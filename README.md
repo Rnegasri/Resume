@@ -33,7 +33,7 @@ resume/
 
 🌍 Live Demo
 
-👉 negasri-resume.netlify.app
+👉 [negasri-resume.netlify.app/](https://negasri-resume.netlify.app/)
 
 ---
 
